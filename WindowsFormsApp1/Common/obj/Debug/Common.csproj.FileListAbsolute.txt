@@ -1,0 +1,16 @@
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\Common.dll
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\Common.pdb
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\obj\Debug\Common.dll
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\obj\Debug\Common.pdb
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.dll
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.pdb
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.xml
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\chlx9\source\repos\WindowsFormsApp1\Common\bin\Debug\LiveCharts.Wpf.xml
