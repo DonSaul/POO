@@ -1,0 +1,10 @@
+ejecuta la consulata sql en tu sql managment studio
+luego, en el programa en la capa de acceso de datos hay una clase o archivo llamado csql
+ahi modificaras ambas cadenas de conexion
+
+ ca = "server= SAUL-PC; Database= kklab; Integrated security= true";
+ y
+private SqlConnection Conexion = new SqlConnection("server= SAUL-PC; Database= kklab; Integrated security= true");
+
+
+en donde dice SAUL-PC, es el nombre del servidor de sql managment studio
